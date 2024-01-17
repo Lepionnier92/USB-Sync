@@ -1,0 +1,11 @@
+{
+  "name": "Windows11App",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
+  },
+  "extensions": [
+    "ms-dotnettools.csharp"
+  ]
+ /*"ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}*/
+}
